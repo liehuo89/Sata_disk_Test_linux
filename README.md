@@ -1,0 +1,2 @@
+# Sata_disk_Test_linux
+测试linux下磁盘顺序随机读写速度
